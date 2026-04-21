@@ -1,0 +1,10 @@
+# Telegram Clicker Bot Requirements
+
+This file contains a list of all the dependencies required for the Telegram clicker bot.
+
+```
+aiohttp
+python-telegram-bot
+python-dotenv
+sqlite3
+```
